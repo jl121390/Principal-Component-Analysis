@@ -1,6 +1,6 @@
 ---
 title: "Group_1"
-author: "Joseph Lynch and Anand Taxali"
+author: "Joseph Lynch"
 date: "5/23/2020"
 output: html_document
 ---
